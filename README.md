@@ -2,7 +2,7 @@
 
 ## ℹ️ Overview
 
-As part of [cheqd](https://www.cheqd.io)'s marketing initiatives in 2022, we ran [a community rewards programme / airdrop to Cosmonauts](https://blog.cheqd.io/cosmos-community-airdrop-32fdb1c0cfd0) in the Cosmos SDK ecosystem. This campaign rewarded individuals for their participation in staking CHEQ/ATOM/OSMO/JUNO tokens and contributing to [Osmosis DEX Liquidity Pools](https://docs.osmosis.zone/overview/).
+As part of [cheqd](https://www.cheqd.io)'s marketing initiatives in 2024, we ran [a community rewards programme / airdrop to Cosmonauts](https://blog.cheqd.io/cosmos-community-airdrop-32fdb1c0cfd0) in the Cosmos SDK ecosystem. This campaign rewarded individuals for their participation in staking CHEQ/ATOM/OSMO/JUNO tokens and contributing to [Osmosis DEX Liquidity Pools](https://docs.osmosis.zone/overview/).
 
 We had 6 tiers that wallet addresses could be eligible to be rewarded in CHEQ tokens for. We wanted to design a self-serve microsite that would allow individuals to check their eligibility for the airdrop and claim tokens if eligible. We took inspiration from similar airdrop frontend sites such as the [Likecoin airdrop claims site](https://github.com/likecoin/app-like-co).  
 
